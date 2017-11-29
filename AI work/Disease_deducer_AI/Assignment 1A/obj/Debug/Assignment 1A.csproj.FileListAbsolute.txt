@@ -1,0 +1,6 @@
+E:\College-Uni work\Master (MSc)\Advanced AI\Assignment 1A\Assignment 1A\bin\Debug\Assignment 1A.exe.config
+E:\College-Uni work\Master (MSc)\Advanced AI\Assignment 1A\Assignment 1A\bin\Debug\Assignment 1A.exe
+E:\College-Uni work\Master (MSc)\Advanced AI\Assignment 1A\Assignment 1A\bin\Debug\Assignment 1A.pdb
+E:\College-Uni work\Master (MSc)\Advanced AI\Assignment 1A\Assignment 1A\obj\Debug\Assignment 1A.csprojResolveAssemblyReference.cache
+E:\College-Uni work\Master (MSc)\Advanced AI\Assignment 1A\Assignment 1A\obj\Debug\Assignment 1A.exe
+E:\College-Uni work\Master (MSc)\Advanced AI\Assignment 1A\Assignment 1A\obj\Debug\Assignment 1A.pdb
